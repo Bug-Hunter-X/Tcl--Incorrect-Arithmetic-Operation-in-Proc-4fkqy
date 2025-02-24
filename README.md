@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating a common error related to performing arithmetic operations inside procedures. The script showcases how omitting square brackets around the expression can lead to an incorrect result. A corrected version is also provided for comparison. The bug is easily fixed by correctly using the 'expr' command within the procedure.
